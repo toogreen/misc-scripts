@@ -1,0 +1,2 @@
+repquota -a|more
+

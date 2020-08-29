@@ -1,0 +1,22 @@
+Hello $username,
+
+Your UNIX account has been created successfully!
+
+You can now start using FTP, Mail and WWW services, using your username and
+password.
+
+To access your FTP space, type:
+
+FTP://suis.xieheedu.com
+
+
+For your e-mail:
+
+HTTP://suis.xieheedu.com/webmail
+
+
+For any questions, consult your I.T. Coordinator
+
+----------------------------------------------------------------------
+Mr. David, I.T. Coordinator
+davidg@suis.xieheedu.com
