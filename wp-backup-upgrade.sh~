@@ -3,7 +3,7 @@
 echo ""
 echo ",======================================================."
 echo "|  Wordpress Upgrade script v.1.0 created by toogreen  |"
-echo "|                  copyright 2020                      |"
+echo "|                  copyright 2006                      |"
 echo "'======================================================'"
 echo ""
 echo "Type the date you want to use for this backup (ex.: 2020-08-29):"
