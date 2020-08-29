@@ -30,4 +30,6 @@ cp -avr ../tmp/wordpress/* .
 rm -rf ../tmp/wordpress ../tmp/latest.zip
 
 # Display Success message
-echo "Wordpress upgarded successfully using $date as date"
+echo "Wordpress upgraded successfully using $date as date in folder backup/wp/$date/"
+echo "Please go to the website in your browser to update database in case it is needed"
+

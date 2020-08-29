@@ -3,7 +3,7 @@
 echo ""
 echo ",======================================================."
 echo "|  Wordpress Upgrade script v.1.0 created by toogreen  |"
-echo "|                  copyright 2006                      |"
+echo "|                  copyright 2020                      |"
 echo "'======================================================'"
 echo ""
 echo "Type the date you want to use for this backup (ex.: 2020-08-29):"
@@ -30,4 +30,4 @@ cp -avr ../tmp/wordpress/* .
 rm -rf ../tmp/wordpress ../tmp/latest.zip
 
 # Display Success message
-echo "Wordpress upgarded successfully using $date as date"
+echo "Wordpress upgarded successfully using $date as date in folder backup/wp/$date/"
